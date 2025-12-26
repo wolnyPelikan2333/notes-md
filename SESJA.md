@@ -1,24 +1,32 @@
 # SESJA — notes-md
 
 Dziennik sesji roboczych dla repo notatek.
-Cel: pamiętać *co było robione i dlaczego*.
+
+Cel:
+- pamiętać, co było robione
+- oddzielić myślenie od pamięci
+- nie dublować pracy
 
 Zasady:
-- jeden wpis = jedna zamknięta sesja
+- jedna sesja = jeden wpis
 - krótko, technicznie
 - bez opisywania treści notatek
 
 ---
 
-## 2025-12-26 — init repo notatek
+## 2025-12-26 — struktura notes-md
 
 DONE:
-- repo notes-md istnieje
-- struktura notatek w .md
+- repo notes-md działa
+- README.md definiuje strukturę:
+  - daily/
+  - nixos/
+  - ideas/
+  - archive/
 - rozdzielenie: system (/etc/nixos) vs notatki (HOME)
 
 Stan repo: CLEAN
 
 NEXT:
-- ustalić strukturę katalogów (max 5)
+- pierwszy wpis w daily/
 
